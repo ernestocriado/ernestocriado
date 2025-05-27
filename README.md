@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Ernesto Criado</h1>
+<h1 align="center">Hi there 👋, I'm Ernesto!</h1>
 
 <p align="center">
   I'm a biomedical engineer passionate about neurotechnology, ultrasound systems, and brain-computer interfaces.<br/>
@@ -7,10 +7,10 @@
   🧠 Exploring: neural stimulation, ultrasound imaging, embedded systems<br/>
   🔬 Interests: neuroscience, signal processing, open-source hardware<br/><br/>
 
-  📫 <a href="mailto:youremail@example.com">Email me</a> &nbsp;|&nbsp;
+  📫 <a href="mailto:ernestocriado@gmail.com">Email me</a> &nbsp;|&nbsp;
   💼 <a href="https://www.linkedin.com/in/ernestocriado">LinkedIn</a> &nbsp;|&nbsp;
-  🌐 <a href="https://ernestocriado.dev">Website</a> &nbsp;|&nbsp;
-  🐦 <a href="https://twitter.com/yourhandle">Twitter</a>
+  <!-- 🌐 <a href="https://ernestocriado.dev">Website</a> &nbsp;|&nbsp; -->
+  🐦 <a href="https://x.com/ECriadoHidalgo">Twitter</a>
 </p>
 
 
