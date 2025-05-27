@@ -10,7 +10,7 @@
   📫 <a href="mailto:ernestocriado@gmail.com">Email me</a> &nbsp;|&nbsp;
   💼 <a href="https://www.linkedin.com/in/ernestocriado">LinkedIn</a> &nbsp;|&nbsp;
   <!-- 🌐 <a href="https://ernestocriado.dev">Website</a> &nbsp;|&nbsp; -->
-  🐦 <a href="https://x.com/ECriadoHidalgo">Twitter</a>
+  🐦 <a href="https://x.com/ECriadoHidalgo">Twitter</a> &nbsp;|&nbsp;
 </p>
 
 
