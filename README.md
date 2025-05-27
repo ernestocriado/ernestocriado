@@ -1,4 +1,4 @@
-<p align="center">Hi there 👋, I'm Ernesto!</h1>
+<p align="left">Hi there 👋</h1>
 
 <p align="left">
   I'm a biomedical engineer passionate about neurotechnology, ultrasound systems, and brain-computer interfaces.<br/>
