@@ -12,6 +12,6 @@
 
 <p align="center">
   📫 <a href="mailto:ernestocriado@gmail.com">Email</a> &nbsp;|&nbsp;
-  💼 <a href="https://www.linkedin.com/in/ernestocriado">LinkedIn</a> &nbsp;|&nbsp;
+  💼 <a href="https://www.linkedin.com/in/ernesto-criado-hidalgo/">LinkedIn</a> &nbsp;|&nbsp;
   🕊️ <a href="https://x.com/ECriadoHidalgo">X</a>
 </p>
