@@ -4,7 +4,7 @@
   I'm a biomedical engineer passionate about neurotechnology, signal processing, and human enhancement.<br/>
   I love working on brain-computer interfaces, embedded systems, and experimental neuroscience.<br/><br/>
   📫 How to reach me: ernestocriado@gmail.com<br/>
-  #🌐 Website: https://ernestocriado.dev<br/>
+#  🌐 Website: https://ernestocriado.dev<br/>
   💼 LinkedIn: https://www.linkedin.com/in/ernesto-criado-hidalgo/
 </p>
 
