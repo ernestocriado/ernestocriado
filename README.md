@@ -1,12 +1,18 @@
-<h1 align="center">Hi there 👋, I'm Ernesto</h1>
+<h1 align="center">Hi there 👋, I'm Ernesto Criado</h1>
 
 <p align="center">
-  I'm a biomedical engineer passionate about neurotechnology, signal processing, and human enhancement.<br/>
-  I love working on brain-computer interfaces, embedded systems, and experimental neuroscience.<br/><br/>
-  📫 How to reach me: ernestocriado@gmail.com<br/>
-  <!-- 🌐 Website: https://ernestocriado.dev<br/>   -->
-  💼 LinkedIn: https://www.linkedin.com/in/ernesto-criado-hidalgo/
+  I'm a biomedical engineer passionate about neurotechnology, ultrasound systems, and brain-computer interfaces.<br/>
+  I enjoy building experimental platforms that blend biology, physics, and computation.<br/><br/>
+
+  🧠 Exploring: neural stimulation, ultrasound imaging, embedded systems<br/>
+  🔬 Interests: neuroscience, signal processing, open-source hardware<br/><br/>
+
+  📫 <a href="mailto:youremail@example.com">Email me</a> &nbsp;|&nbsp;
+  💼 <a href="https://www.linkedin.com/in/ernestocriado">LinkedIn</a> &nbsp;|&nbsp;
+  🌐 <a href="https://ernestocriado.dev">Website</a> &nbsp;|&nbsp;
+  🐦 <a href="https://twitter.com/yourhandle">Twitter</a>
 </p>
+
 
 ---
 
