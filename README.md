@@ -2,22 +2,16 @@
 
 <p align="center">
   I'm a biomedical engineer passionate about neurotechnology, ultrasound systems, and brain-computer interfaces.<br/>
-  I enjoy building experimental platforms that blend biology, physics, and computation.<br/><br/>
+  I build experimental platforms that blend biology, physics, and computation.<br/><br/>
 
-  🧠 Exploring: neural stimulation, ultrasound imaging, embedded systems<br/>
-  🔬 Interests: neuroscience, signal processing, open-source hardware<br/><br/>
-
-  📫 <a href="mailto:ernestocriado@gmail.com">Email me</a> &nbsp;|&nbsp;
-  💼 <a href="https://www.linkedin.com/in/ernestocriado">LinkedIn</a> &nbsp;|&nbsp;
-  <!-- 🌐 <a href="https://ernestocriado.dev">Website</a> &nbsp;|&nbsp; -->
-  🐦 <a href="https://x.com/ECriadoHidalgo">Twitter</a> &nbsp;|&nbsp;
+  🧠 <strong>Exploring:</strong> neural stimulation, ultrasound imaging, embedded systems<br/>
+  🔬 <strong>Interests:</strong> neuroscience, signal processing, open-source hardware
 </p>
 
-
----
-
-<!--
+<br/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ernestocriado&show_icons=true&theme=default" />
+  📫 <a href="mailto:ernestocriado@gmail.com">Email</a> &nbsp;|&nbsp;
+  💼 <a href="https://www.linkedin.com/in/ernestocriado">LinkedIn</a> &nbsp;|&nbsp;
+  🕊️ <a href="https://x.com/ECriadoHidalgo">X</a>
 </p>
