@@ -12,11 +12,11 @@
 
 <p align="center">
   <a href="mailto:ernestocriado@gmail.com">
-    <img src="https://img.shields.io/badge/Email-ernerstocriado@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Email-ernestocriado@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email">
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/ernesto-criado-hidalgo/">
-    <img src="https://img.shields.io/badge/LinkedIn-Ernesto%20Criado-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-Ernesto%20Criado-Hidalgo0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   &nbsp;
   <a href="https://x.com/ECriadoHidalgo">
