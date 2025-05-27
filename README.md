@@ -1,4 +1,4 @@
-<p align="left">Hi there 👋</h1>
+<p align="center">Hi there 👋</h1>
 
 <p align="left">
   I'm a biomedical engineer passionate about neurotechnology, ultrasound systems, and brain-computer interfaces.<br/>
@@ -20,7 +20,7 @@
 
 -->
 
-<p align="left">
+<p align="center">
   <a href="mailto:ernestocriado@gmail.com"><img src="https://img.shields.io/badge/email-ernestocriado@gmail.com-blue?style=flat&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/ernesto-criado-hidalgo/"><img src="https://img.shields.io/badge/LinkedIn-Ernesto%20Criado-blue?style=flat&logo=linkedin"/></a>
   <a href="https://x.com/ECriadoHidalgo"><img src="https://img.shields.io/badge/X-%40ECriadoHidalgo-black?style=flat&logo=x&logoColor=white"/></a>
