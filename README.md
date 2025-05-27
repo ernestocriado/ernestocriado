@@ -19,8 +19,4 @@
     <img src="https://img.shields.io/badge/LinkedIn-Ernesto%20Criado-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   &nbsp;
-  <a href="https://x.com/ECriadoHidalgo">
-    <img src="https://img.shields.io/badge/X-%40ECriadoHidalgo-000000?style=flat&logo=x&logoColor=white" alt="X">
-  </a>
-</p>
-
+  <a href="https:/
