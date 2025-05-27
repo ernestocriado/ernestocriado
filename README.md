@@ -16,7 +16,7 @@
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/ernesto-criado-hidalgo/">
-    <img src="https://img.shields.io/badge/LinkedIn-Ernesto%20Criado-Hidalgo0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-Ernesto%20Criado0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   &nbsp;
   <a href="https://x.com/ECriadoHidalgo">
@@ -26,7 +26,7 @@
 
 <p align="center">
   <a href="https://orcid.org/0000-0001-9086-9129">
-    <img src="https://img.shields.io/badge/ORCID-0000--0000--0000--0000-A6CE39?style=flat&logo=orcid&logoColor=white" alt="ORCID">
+    <img src="https://img.shields.io/badge/ORCID-0000--0001--9086--9129-A6CE39?style=flat&logo=orcid&logoColor=white" alt="ORCID">
   </a>
   &nbsp;
   <a href="https://www.researchgate.net/profile/Ernesto-Criado">
