@@ -22,7 +22,9 @@
   <a href="https://x.com/ECriadoHidalgo">
     <img src="https://img.shields.io/badge/X-%40ECriadoHidalgo-000000?style=flat&logo=x&logoColor=white" alt="X">
   </a>
-  &nbsp;
+</p>
+
+<p align="center">
   <a href="https://orcid.org/0000-0000-0000-0000">
     <img src="https://img.shields.io/badge/ORCID-0000--0000--0000--0000-A6CE39?style=flat&logo=orcid&logoColor=white" alt="ORCID">
   </a>
@@ -35,3 +37,4 @@
     <img src="https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=flat&logo=googlescholar&logoColor=white" alt="Google Scholar">
   </a>
 </p>
+
