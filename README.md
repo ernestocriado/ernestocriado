@@ -1,27 +1,26 @@
-<p align="center">Hi there 👋</h1>
+<h1 align="center">Hi there 👋, I'm Ernesto!</h1>
 
 <p align="center">
   I'm a biomedical engineer passionate about neurotechnology, ultrasound systems, and brain-computer interfaces.<br/>
   I build experimental platforms that blend biology, physics, and computation.<br/><br/>
-<p align="center">
+
   🧠 <strong>Exploring:</strong> neural stimulation, ultrasound imaging, embedded systems<br/>
   🔬 <strong>Interests:</strong> neuroscience, signal processing, open-source hardware
 </p>
 
 <br/>
 
-<!--
-
 <p align="center">
-  📫 <a href="mailto:ernestocriado@gmail.com">Email</a> &nbsp;|&nbsp;
-  💼 <a href="https://www.linkedin.com/in/ernesto-criado-hidalgo/">LinkedIn</a> &nbsp;|&nbsp;
-  🕊️ <a href="https://x.com/ECriadoHidalgo">X</a>
+  <a href="mailto:ernestocriado@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ernerstocriado@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/ernestocriado">
+    <img src="https://img.shields.io/badge/LinkedIn-Ernesto%20Criado-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  &nbsp;
+  <a href="https://x.com/ECriadoHidalgo">
+    <img src="https://img.shields.io/badge/X-%40ECriadoHidalgo-000000?style=flat&logo=x&logoColor=white" alt="X">
+  </a>
 </p>
 
--->
-
-<p align="center">
-  <a href="mailto:ernestocriado@gmail.com"><img src="https://img.shields.io/badge/email-ernestocriado@gmail.com-blue?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/ernesto-criado-hidalgo/"><img src="https://img.shields.io/badge/LinkedIn-Ernesto%20Criado-blue?style=flat&logo=linkedin"/></a>
-  <a href="https://x.com/ECriadoHidalgo"><img src="https://img.shields.io/badge/X-%40ECriadoHidalgo-black?style=flat&logo=x&logoColor=white"/></a>
-</p>
