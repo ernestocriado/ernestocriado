@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Ernesto!</h1>
 
-<p align="center">
+<p align="left">
   I'm a biomedical engineer passionate about neurotechnology, ultrasound systems, and brain-computer interfaces.<br/>
   I build experimental platforms that blend biology, physics, and computation.<br/><br/>
 
