@@ -3,7 +3,7 @@
 <p align="center">
   I'm a biomedical engineer passionate about neurotechnology, ultrasound systems, and brain-computer interfaces.<br/>
   I build experimental platforms that blend biology, physics, and computation.<br/><br/>
-
+<p align="center">
   🧠 <strong>Exploring:</strong> neural stimulation, ultrasound imaging, embedded systems<br/>
   🔬 <strong>Interests:</strong> neuroscience, signal processing, open-source hardware
 </p>
