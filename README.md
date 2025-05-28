@@ -1,6 +1,6 @@
-<p align="center">Hi there 👋, I'm Ernesto!</h1>
+<p align="left">Hi there 👋, I'm Ernesto!</h1>
 
-<p align="center">
+<p align="left">
   An aerospace engioneer by training, I enjoy working at the intersection of engineering and medicine. <br/>
   I'm passionate about neurotechnology, ultrasound systems, and brain-computer interfaces.<br/>
   I build experimental platforms that blend biology, physics, and computation.<br/><br/>
@@ -11,7 +11,7 @@
 
 <br/>
 
-<p align="center">
+<p align="left">
   <a href="mailto:ernestocriado@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
