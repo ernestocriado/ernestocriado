@@ -8,7 +8,7 @@
 
   🧠 <strong>Exploring:</strong> biomolecular ultrasound, neural stimulation, ultrasound imaging<br/>
   🔬 <strong>Interests:</strong> mechanobiology, neuroscience, signal processing, brain-computer interfaces<br/>
-  🚀 <strong>Dreams:</strong> neuroscience, signal processing, open-source hardware
+ <!-- 🚀 <strong>Dreams:</strong> neuroscience, signal processing, open-source hardware -->
 </p>
 
 <br/>
