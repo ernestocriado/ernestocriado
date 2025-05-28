@@ -6,7 +6,7 @@
   I build experimental and computational platforms that blend biology, physics, and medicine.<br/><br/>
 
   🧠 <strong>Exploring:</strong> neural stimulation, ultrasound imaging, embedded systems<br/>
-  🔬 <strong>Interests:</strong> neuroscience, signal processing, open-source hardware
+  🔬 <strong>Interests:</strong> neuroscience, signal processing, open-source hardware<br/>
   🚀 <strong>Dreams:</strong> neuroscience, signal processing, open-source hardware
 </p>
 
