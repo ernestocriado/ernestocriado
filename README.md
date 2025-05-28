@@ -1,7 +1,7 @@
 <h2 align="left">Hi there 👋, I'm Ernesto!</h2>
 
 <p align="left">
-  An aerospace engineer by training, I enjoy working at the intersection of engineering and medicine. <br/>
+  An aerospace engineer by training, I enjoy working at the intersection of engineering and medicine. <br/><br/>
   I'm passionate about mechanobiology, ultrasound systems, and brain-computer interfaces.<br/>
   I am fascinated by how mechanical energy can be precisely delivered to cells to modulate neural activity. <br/>
   I build experimental and computational platforms that blend biology, physics, and medicine.<br/><br/>
