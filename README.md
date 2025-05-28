@@ -3,7 +3,7 @@
 <p align="left">
   An aerospace engineer by training, I enjoy working at the intersection of engineering and medicine. <br/>
   I'm passionate about neurotechnology, ultrasound systems, and brain-computer interfaces.<br/>
-  I build experimental platforms that blend biology, physics, and computation.<br/><br/>
+  I build experimental and computational platforms that blend biology, physics, and medicine.<br/><br/>
 
   🧠 <strong>Exploring:</strong> neural stimulation, ultrasound imaging, embedded systems<br/>
   🔬 <strong>Interests:</strong> neuroscience, signal processing, open-source hardware
