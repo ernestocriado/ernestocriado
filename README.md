@@ -2,9 +2,9 @@
 
 <p align="left">
   An aerospace engineer by training, I enjoy working at the intersection of engineering and medicine. <br/><br/>
-  I'm passionate about mechanobiology, ultrasound systems, and brain-computer interfaces.<br/>
-  I am fascinated by how mechanical energy can <b>precisely</b> interact with cells & modulate neural activity. <br/>
-  I build experimental and computational platforms that blend biology, physics, and medicine.<br/><br/>
+  🔥 I'm passionate about mechanobiology, ultrasound systems, and brain-computer interfaces.<br/>
+  🤩 I am fascinated by how mechanical energy can <b>precisely</b> interact with cells & modulate neural activity. <br/>
+  🛠️ I build experimental and computational platforms that blend biology, physics, and medicine.<br/><br/>
 
   🧠 <strong>Exploring:</strong> biomolecular ultrasound, neural stimulation, ultrasound imaging<br/>
   🔬 <strong>Interests:</strong> mechanobiology, medical devices, wearables, brain-computer interfaces<br/>
