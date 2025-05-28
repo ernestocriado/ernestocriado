@@ -7,7 +7,7 @@
   I build experimental and computational platforms that blend biology, physics, and medicine.<br/><br/>
 
   🧠 <strong>Exploring:</strong> biomolecular ultrasound, neural stimulation, ultrasound imaging<br/>
-  🔬 <strong>Interests:</strong> mechanobiology, neuroscience, signal processing, brain-computer interfaces<br/>
+  🔬 <strong>Interests:</strong> mechanobiology, medical devices, wearables, brain-computer interfaces<br/>
  <!-- 🚀 <strong>Dreams:</strong> neuroscience, signal processing, open-source hardware -->
 </p>
 
