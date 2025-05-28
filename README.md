@@ -12,29 +12,28 @@
 
 <p align="center">
   <a href="mailto:ernestocriado@gmail.com">
-    <img src="https://img.shields.io/badge/Email-ernestocriado@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email">
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/ernesto-criado-hidalgo/">
-    <img src="https://img.shields.io/badge/LinkedIn-Ernesto%20Criado-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   &nbsp;
   <a href="https://x.com/ECriadoHidalgo">
-    <img src="https://img.shields.io/badge/X-%40ECriadoHidalgo-000000?style=flat&logo=x&logoColor=white" alt="X">
+    <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X">
   </a>
 </p>
 
 <p align="center">
   <a href="https://orcid.org/0000-0001-9086-9129">
-    <img src="https://img.shields.io/badge/ORCID-0000--0001--9086--9129-A6CE39?style=flat&logo=orcid&logoColor=white" alt="ORCID">
+    <img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID">
   </a>
   &nbsp;
   <a href="https://www.researchgate.net/profile/Ernesto-Criado">
-    <img src="https://img.shields.io/badge/ResearchGate-Ernesto%20Criado-00CCBB?style=flat&logo=researchgate&logoColor=white" alt="ResearchGate">
+    <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=flat-square&logo=researchgate&logoColor=white" alt="ResearchGate">
   </a>
   &nbsp;
   <a href="https://scholar.google.com/citations?hl=en&user=8Qtoph8AAAAJ&view_op=list_works&sortby=pubdate">
-    <img src="https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=flat&logo=googlescholar&logoColor=white" alt="Google Scholar">
+    <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white" alt="Google Scholar">
   </a>
 </p>
-
