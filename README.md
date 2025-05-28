@@ -1,7 +1,7 @@
 <p align="center">Hi there 👋, I'm Ernesto!</h1>
 
 <p align="center">
-  I'm a biomedical engineer passionate about neurotechnology, ultrasound systems, and brain-computer interfaces.<br/>
+  An aerospace engioneer by training, I enjoy working at the intersection of engineering and medicine. I'm passionate about neurotechnology, ultrasound systems, and brain-computer interfaces.<br/>
   I build experimental platforms that blend biology, physics, and computation.<br/><br/>
 
   🧠 <strong>Exploring:</strong> neural stimulation, ultrasound imaging, embedded systems<br/>
