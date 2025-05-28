@@ -13,6 +13,8 @@
 
 <br/>
 
+<!--
+
 <p align="left">
   <a href="mailto:ernestocriado@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
@@ -39,6 +41,7 @@
   </a>
 </p>
 
+-->
 
 
 <!-- This is a comment and won't show up in the rendered README -->
