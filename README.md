@@ -22,9 +22,7 @@
   <a href="https://x.com/ECriadoHidalgo">
     <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X">
   </a>
-</p>
-
-<p align="center">
+  &nbsp;
   <a href="https://orcid.org/0000-0001-9086-9129">
     <img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID">
   </a>
