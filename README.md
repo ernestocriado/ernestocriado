@@ -7,6 +7,7 @@
 
   🧠 <strong>Exploring:</strong> neural stimulation, ultrasound imaging, embedded systems<br/>
   🔬 <strong>Interests:</strong> neuroscience, signal processing, open-source hardware
+  🚀 <strong>Dreams:</strong> neuroscience, signal processing, open-source hardware
 </p>
 
 <br/>
