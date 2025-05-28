@@ -3,10 +3,11 @@
 <p align="left">
   An aerospace engineer by training, I enjoy working at the intersection of engineering and medicine. <br/>
   I'm passionate about mechanobiology, ultrasound systems, and brain-computer interfaces.<br/>
+  I am fascinated by how mechanical energy can be precisely delivered to cells to modulate neural activity. <br/>
   I build experimental and computational platforms that blend biology, physics, and medicine.<br/><br/>
 
-  🧠 <strong>Exploring:</strong> neural stimulation, ultrasound imaging, embedded systems<br/>
-  🔬 <strong>Interests:</strong> neuroscience, signal processing, open-source hardware<br/>
+  🧠 <strong>Exploring:</strong> biomolecular ultrasound, neural stimulation, ultrasound imaging<br/>
+  🔬 <strong>Interests:</strong> mechanobiology, neuroscience, signal processing, brain-computer interfaces<br/>
   🚀 <strong>Dreams:</strong> neuroscience, signal processing, open-source hardware
 </p>
 
