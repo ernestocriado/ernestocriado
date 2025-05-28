@@ -1,4 +1,4 @@
-<p1 align="left">Hi there 👋, I'm Ernesto!</h1>
+<p align="left">Hi there 👋, I'm Ernesto!</h1>
 
 <p align="left">
   An aerospace engioneer by training, I enjoy working at the intersection of engineering and medicine. <br/>
