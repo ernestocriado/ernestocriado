@@ -1,7 +1,7 @@
-<p align="left">Hi there 👋, I'm Ernesto!</h1>
+<h2 align="left">Hi there 👋, I'm Ernesto!</h2>
 
 <p align="left">
-  An aerospace engioneer by training, I enjoy working at the intersection of engineering and medicine. <br/>
+  An aerospace engineer by training, I enjoy working at the intersection of engineering and medicine. <br/>
   I'm passionate about neurotechnology, ultrasound systems, and brain-computer interfaces.<br/>
   I build experimental platforms that blend biology, physics, and computation.<br/><br/>
 
