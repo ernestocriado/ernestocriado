@@ -5,7 +5,7 @@
   🔥 I'm passionate about mechanobiology, ultrasound systems, wearables and medical devices.<br/><br/>
   <!--🤩 I am fascinated by how mechanical energy can <b>precisely</b> interact with cells & modulate neural activity. <br/> -->
   🛠️ I build experimental and computational platforms that blend biology, physics, and medicine.<br/><br/>
-  🧠 <strong>Currently exploring:</strong> biomolecular ultrasound, neural stimulation, ultrasound imaging & sonogenetic<br/>
+  🧠 <strong>Currently exploring:</strong> biomolecular ultrasound, neural stimulation, ultrasound imaging & sonogenetics<br/>
  <!-- 🔬 <strong>Interests:</strong> mechanobiology, medical devices, wearables, brain-computer interfaces<br/> -->
  <!-- 🚀 <strong>Dreams:</strong> neuroscience, signal processing, open-source hardware -->
 </p>
